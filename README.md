@@ -14,10 +14,9 @@ The game source and media are in the [game_source_assets](game_source_assets) di
 Media: John Joh
 Code: Eric Yeh
 
-----
 ## Development Notes
 
-![Warning](game_source_assets/COW52.GIF)Udder started out as a clone of Tapper, that great arcade game of the 80s where the player controlled bartender had to heave mugs of "family friendly" beverages at thirsty patrons.  Making a pure copy is never fun, so we started out with the core game mechanic of having to manage a queue.  Similar to 
+![Warning](game_source_assets/COW52.GIF)Udder started out as a clone of Tapper, that great arcade game of the 80s where the player controlled bartender had to heave mugs of "family friendly" beverages at thirsty patrons.  Making a pure copy is never fun, so we started out with the core game mechanic of having to manage a queue.  Stripped to "first principles," this is a game where the player has to move an avatar around multiple queues that fill up at different rates.  At each queue, the player can perform an action to relieve the queue, and if a queue overflows, the player loses a life.  The queues are arranged spatially and adjacencies are restricted, requiring the player to be strategic about where to move next.  This also requires the vital mechanic of penalizing the player takes action on an empty queue.  In Tapper, this would be heaving a mug down an empty counter.  In Udder, this was overmilking a cow.  Having a penalty for not paying attention is important, otherwise players can develop a degenerate strategy of performing a circuit through each queue while hitting the action button.
 
 ### Audio Assets
 Back in the day we had to try to scour CD-ROMs of clipart sounds to find the right audio.  None of the "moos" sounded quite right, they didn't have the right tone, nor did they convey an increasing tone of desperation so needed in the game.  For a previous Macromedia Director game we used as a pitch, I recorded placeholder audio by saying the sound effect into a mic, e.g., "BOUNCE" or "GOOAAAAL!"  So we took the same approach with Udder, with me doing multiple tries to get the "moo" just right.  John managed to get the cow tipper right on the first or second try, but that's because he knew how to manipulate the audio (professional that he is).
