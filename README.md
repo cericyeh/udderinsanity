@@ -1,6 +1,6 @@
 # Udder Insanity
 
-![Udder Insanity Title Screen](screenshots/title_screen.jpg "Udder Insanity")
+<img style="float: center;" src="screenshots/title_screen.jpg" alt="Udder Insanity Title Screen"/>
 
 This contains the source and media for the game Udder Insanity, a Java applet that was hosted on designreactor.com in the late 90s and early 00s.  The player controlled a dairy farmer who had to collect milk from his herd.  If a cow was left unmilked, she eventually would explode in a dramatic and completely biologically plausible fashion.  If the farmer over-milked a cow, the chafing on the cow's milk tubes would stress would cause the cow and cause it to explode (science).  Because stress is not enough, slackers (popular in the 90s) would try to sneak by and tip a cow.  The farmer's only recourse would be pull out his shotgun and fire a warning shot with both barrels, a societally approved solution clearly enough to deter any intruder.
 
