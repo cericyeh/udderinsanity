@@ -11,8 +11,8 @@ This contains the source and media for the game Udder Insanity, a Java applet th
 The game source and media are in the [game_source_assets](game_source_assets) directory.
 
 ## Credits
-Media: John Joh
-Code: Eric Yeh
+- Media: John Joh
+- Code: Eric Yeh
 
 ## Development Notes
 
