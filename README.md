@@ -7,4 +7,4 @@ This contains the source and media for the game Udder Insanity, a Java applet th
 
 The applet was written a long time ago, in a time when the code's author lacked anything resembling good coding and game development practices.  Outside of the lack of comments, the use of an ancient platform known to be a security liability, the game's timing was controlled by CPU speed.  Because of these challenges to getting the game ressurrected, we have put the code up "as-is" for now.
 
-The game source and media are in the [a relatve link](game_source_assets) directory.
+The game source and media are in the [game_source_assets](game_source_assets) directory.
